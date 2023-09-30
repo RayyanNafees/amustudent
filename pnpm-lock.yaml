@@ -8,6 +8,9 @@ dependencies:
   astro:
     specifier: ^3.2.0
     version: 3.2.0
+  htmx.org:
+    specifier: ^1.9.6
+    version: 1.9.6
 
 devDependencies:
   unocss:
@@ -1943,6 +1946,10 @@ packages:
 
   /html-void-elements@2.0.1:
     resolution: {integrity: sha512-0quDb7s97CfemeJAnW9wC0hw78MtW7NU3hqtCD75g2vFlDLt36llsYD7uB7SUzojLMP24N5IatXf7ylGXiGG9A==}
+    dev: false
+
+  /htmx.org@1.9.6:
+    resolution: {integrity: sha512-4Zebo9nzg8u2ZHuIJmvB/nQS6kIMLIoEfhTg/oRwyCIJhL5MLA/jPU1EPEBtGOmG4ZG0k05Vpd3sab2+zfvteQ==}
     dev: false
 
   /http-cache-semantics@4.1.1:

@@ -10,7 +10,8 @@
         "astro": "astro"
     },
     "dependencies": {
-        "astro": "^3.2.0"
+        "astro": "^3.2.0",
+        "htmx.org": "^1.9.6"
     },
     "devDependencies": {
         "unocss": "^0.56.4"
