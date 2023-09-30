@@ -7,6 +7,7 @@ The Public informarmation regarding all the students of 1st yr B.tech enrolled i
 - View Transitions
 ## Tech Stack
 - Astro
+- HTMX
 - UnoCSS
 - Vercel
 
