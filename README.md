@@ -1,6 +1,10 @@
 # AMU 1st year Students Public Info
 The Public informarmation regarding all the students of 1st yr B.tech enrolled in AMU for the session 2023-27 taken from the [official Excel source](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUXVTiRc_y3FmfyOQpxe7EK1gWSG2Hioz1ML__lIbbg7WEV3zCugdBVE6qUGhCyJFFAFwwoyCqm4zI/pub?gid=1887357014&single=true&output=csv)
 
+## Features
+- Fast to load
+- Offline available
+- View Transitions
 ## Tech Stack
 - Astro
 - UnoCSS
