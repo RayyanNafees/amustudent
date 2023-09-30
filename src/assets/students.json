@@ -1,0 +1,4281 @@
+[{
+        "faculty": "23COBEA101",
+        "enrollment": "GP4003",
+        "name": "WARDAH TANVEER",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 1,
+        "phone": 9599100695,
+        "email": "tan.nhpc@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA102",
+        "enrollment": "GL9240",
+        "name": "MOHD HAZIQULLAH",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 2,
+        "phone": 7455019818,
+        "email": "haziqullah52@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA103",
+        "enrollment": "GP4005",
+        "name": "MOHAMMAD TAHA RIZVI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 3,
+        "phone": 6306860841,
+        "email": "mtaharizvi140@gmail.com"
+    },
+    {
+        "faculty": "23COBEA104",
+        "enrollment": "GM6895",
+        "name": "SYED MUHAMMAD AMBER SUBHANI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 4,
+        "phone": 8700212934,
+        "email": "ambersubhani1@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA105",
+        "enrollment": "GM5325",
+        "name": "TASMIYA RAHMAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 5,
+        "phone": 8266929996,
+        "email": "tasmiyarahman53@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA106",
+        "enrollment": "GP4025",
+        "name": "MUHAMMAD ABDULLAH KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 6,
+        "phone": 9918986111,
+        "email": "drmdadil@gmail.com"
+    },
+    {
+        "faculty": "23COBEA107",
+        "enrollment": "GM6925",
+        "name": "AVYUKT SONI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 7,
+        "phone": 6399454765,
+        "email": "soniavyukt@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA108",
+        "enrollment": "GP4036",
+        "name": "PRIYA SHARMA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 8,
+        "phone": 9411982634,
+        "email": "sanjay11sharma78@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA109",
+        "enrollment": "GP4038",
+        "name": "SANKALP SARSWAT",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 9,
+        "phone": 9910446579,
+        "email": "datheaya@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA110",
+        "enrollment": "GM6092",
+        "name": "SHAHZAD RAZA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 10,
+        "phone": 7570968399,
+        "email": "shahzadraza2019@gmail.com"
+    },
+    {
+        "faculty": "23COBEA111",
+        "enrollment": "GM0733",
+        "name": "ABHISHEK KUMAR",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 11,
+        "phone": 9761401380,
+        "email": "kumarabhishek9761401380@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA112",
+        "enrollment": "GM1511",
+        "name": "VINAY RAJPUT",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 12,
+        "phone": 6396807051,
+        "email": "rjvinayyy@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA113",
+        "enrollment": "GP4053",
+        "name": "MOHAMMAD HAMDAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 13,
+        "phone": 7518544568,
+        "email": "hamdantobecricketer@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA114",
+        "enrollment": "GM1084",
+        "name": "SYED AHMAD AMMAR",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 14,
+        "phone": 9810810816,
+        "email": "zrazad@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA115",
+        "enrollment": "GP4074",
+        "name": "SABEEHA AJMAL",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 15,
+        "phone": 8887527582,
+        "email": "sabeehaajmal55@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA116",
+        "enrollment": "GP4078",
+        "name": "ALTAF QAMAR",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 16,
+        "phone": 8969477129,
+        "email": "altafqmr@gmail.com"
+    },
+    {
+        "faculty": "23COBEA117",
+        "enrollment": "GP4081",
+        "name": "ROSHAID ATIQUE",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 17,
+        "phone": 8346098101,
+        "email": "roshaid2004@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA118",
+        "enrollment": "GM0170",
+        "name": "SARA MARYAM",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 18,
+        "phone": 9412459341,
+        "email": "mohdhaseebazmi@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA119",
+        "enrollment": "GP4086",
+        "name": "SADIA AIMAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 19,
+        "phone": 6396472538,
+        "email": "sadiaaiman05@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA120",
+        "enrollment": "GP4094",
+        "name": "MOHD HAMZA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 20,
+        "phone": 9800381139,
+        "email": "mohd9892hamza@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA121",
+        "enrollment": "GL9120",
+        "name": "BIPASHA SARASWAT",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 21,
+        "phone": 7455046553,
+        "email": "saraswatbipasha@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA122",
+        "enrollment": "GP4095",
+        "name": "KUSHAGRA SENGAR",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 22,
+        "phone": 9412147840,
+        "email": "kushagra.sengar2607@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA123",
+        "enrollment": "GP4102",
+        "name": "AAMEEEN AJMAL",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 23,
+        "phone": 8757903568,
+        "email": "aameenajmaldj@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA124",
+        "enrollment": "GN1769",
+        "name": "ROHIT SHANKAR PATHAK",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 24,
+        "phone": 9258450880,
+        "email": "rohitshankarpathak@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA125",
+        "enrollment": "GM1586",
+        "name": "AMEEN KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 25,
+        "phone": 7860818386,
+        "email": "ameenkhann3259745@gmail.com"
+    },
+    {
+        "faculty": "23COBEA126",
+        "enrollment": "GL8328",
+        "name": "BILAL HASSAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 26,
+        "phone": 8126710884,
+        "email": "newmobilebilal@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA127",
+        "enrollment": "GP4123",
+        "name": "AKBAR ALI KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 27,
+        "phone": 9580317085,
+        "email": "akbarkh7860@gmail.com"
+    },
+    {
+        "faculty": "23COBEA128",
+        "enrollment": "GP4124",
+        "name": "ZUHAIR ARIF",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 28,
+        "phone": 6394317905,
+        "email": "zuhairarif1234@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA129",
+        "enrollment": "GP4137",
+        "name": "DEWANG GANDHI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 29,
+        "phone": 9457069048,
+        "email": "dewanggandhi1@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA130",
+        "enrollment": "GP4151",
+        "name": "SHERYL VARSHNEY",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 30,
+        "phone": 8527754103,
+        "email": "sheryl.varshney@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA131",
+        "enrollment": "GP4152",
+        "name": "FAIZAN KARIM",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 31,
+        "phone": 8340633183,
+        "email": "faizankarimbabu@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA132",
+        "enrollment": "GM0474",
+        "name": "HAMMAD HAYAT",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 32,
+        "phone": 7983925811,
+        "email": "hammadhayat2004@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA133",
+        "enrollment": "GM7245",
+        "name": "MOHD FAIZ",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 33,
+        "phone": 9452066786,
+        "email": "nafeesbsnl@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA134",
+        "enrollment": "GM0530",
+        "name": "ABDUL HADI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 34,
+        "phone": 7599393633,
+        "email": "abdulhadi123b@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA135",
+        "enrollment": "GP4177",
+        "name": "ARSHIYA NAAZ",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 35,
+        "phone": 8887957143,
+        "email": "zayanali195@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA136",
+        "enrollment": "GP4185",
+        "name": "AADISH AGARWAL",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 36,
+        "phone": 9219441232,
+        "email": "freedomtraderclubs@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA137",
+        "enrollment": "GM1839",
+        "name": "SYED MOHD KAIF ZAIDI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 37,
+        "phone": 8191083087,
+        "email": "kz077809@gmail.com"
+    },
+    {
+        "faculty": "23COBEA138",
+        "enrollment": "GP4203",
+        "name": "ABDUR REHMAN AYAZ",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 38,
+        "phone": 9935629168,
+        "email": "theancientone.31@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA139",
+        "enrollment": "GP4204",
+        "name": "RIHAAN KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 39,
+        "phone": 7417970124,
+        "email": "rihaankhan3456@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA140",
+        "enrollment": "GM7136",
+        "name": "GARVITA GUPTA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 40,
+        "phone": 7830378999,
+        "email": "grimjhim9@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA141",
+        "enrollment": "GM4428",
+        "name": "AISHA MATEEN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 41,
+        "phone": 9172879586,
+        "email": "mateenaisha984@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA142",
+        "enrollment": "GP4213",
+        "name": "MAYANK VERMA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 42,
+        "phone": 8273238992,
+        "email": "michaelverma099@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA143",
+        "enrollment": "GL5565",
+        "name": "MAYUR KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 43,
+        "phone": 7983092824,
+        "email": "mayurkhan605@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA144",
+        "enrollment": "GP4237",
+        "name": "SAKSHAM YADAV",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 44,
+        "phone": 9414940110,
+        "email": "yadavsaksham27@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA145",
+        "enrollment": "GP4238",
+        "name": "HASAN SHABBIR SHEES",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 45,
+        "phone": 8299250845,
+        "email": "hasanshabbeershees@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA146",
+        "enrollment": "GP4239",
+        "name": "PARTH VARSHNEY",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 46,
+        "phone": 9359842947,
+        "email": "wwwvarshneyrajeev78.19.15@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA147",
+        "enrollment": "GP4243",
+        "name": "GULAM MOHD KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 47,
+        "phone": 9971259775,
+        "email": "kalimkhan.70@rediffmail.com"
+    },
+    {
+        "faculty": "23MEBEA148",
+        "enrollment": "GM0344",
+        "name": "SALMAN KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 48,
+        "phone": 7818884620,
+        "email": "salmanamu077@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA149",
+        "enrollment": "GP4247",
+        "name": "MIRZA DIA FERDOUSI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 49,
+        "phone": 7908123281,
+        "email": "diamirzaferdousi@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA150",
+        "enrollment": "GM0219",
+        "name": "SANIA SIDDIQUI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 50,
+        "phone": 8449828774,
+        "email": "sania.siddiqui231@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA151",
+        "enrollment": "GM0708",
+        "name": "MOHAMMAD AMAAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 51,
+        "phone": 9368597495,
+        "email": "amaanmohammad033@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA152",
+        "enrollment": "GL9226",
+        "name": "MOHAMMAD ZAID",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 52,
+        "phone": 9897386030,
+        "email": "zaidgl9226@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA153",
+        "enrollment": "GM1875",
+        "name": "AMMAR BARI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 53,
+        "phone": 9411802255,
+        "email": "ammarbariamu@gmail.com"
+    },
+    {
+        "faculty": "23COBEA154",
+        "enrollment": "GP4269",
+        "name": "MOHD MAAZ ANSARI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 54,
+        "phone": 9569795238,
+        "email": "ansarimaaz422@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA155",
+        "enrollment": "GL9175",
+        "name": "AMAN UZZAMA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 55,
+        "phone": 8303768606,
+        "email": "salmanuzzama376@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA156",
+        "enrollment": "GP4278",
+        "name": "MOHD SHARIK",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 56,
+        "phone": 9389340984,
+        "email": "sharikmohd038@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA157",
+        "enrollment": "GP4279",
+        "name": "MOHD AHBAB",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 57,
+        "phone": 6390220768,
+        "email": "ahbabmohd0202@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA158",
+        "enrollment": "GP4286",
+        "name": "SAGUN KARDAM",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 58,
+        "phone": 9997407168,
+        "email": "shagun9149020@gmail.com"
+    },
+    {
+        "faculty": "23COBEA159",
+        "enrollment": "GP4288",
+        "name": "MD HOZAIFA ASHRAF",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 59,
+        "phone": 7061613941,
+        "email": "mdhozaifaashraf@gmail.com"
+    },
+    {
+        "faculty": "23COBEA160",
+        "enrollment": "GN2154",
+        "name": "MOHD ABBAS SAFVI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 60,
+        "phone": 7505967493,
+        "email": "abbassafvi6@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA161",
+        "enrollment": "GL5621",
+        "name": "SHABAB HUSSAIN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 61,
+        "phone": 9557407268,
+        "email": "mohdshabab489@gmail.com"
+    },
+    {
+        "faculty": "23COBEA162",
+        "enrollment": "GP4307",
+        "name": "SANJIT KAPOOR",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 62,
+        "phone": 9389717829,
+        "email": "senjitkapoor@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA163",
+        "enrollment": "GM7503",
+        "name": "KULDEEP SEN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 63,
+        "phone": 7017754362,
+        "email": "kuldeep11ap@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA164",
+        "enrollment": "GP4317",
+        "name": "MASOOD AZAM",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 64,
+        "phone": 8603734912,
+        "email": "azammasood5459@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA165",
+        "enrollment": "GM0747",
+        "name": "ISHAAN JADAUN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 65,
+        "phone": 9456863800,
+        "email": "ishaanjadaun2312@gmail.com"
+    },
+    {
+        "faculty": "23COBEA166",
+        "enrollment": "GM1355",
+        "name": "MAYUR GUPTA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 66,
+        "phone": 8755724909,
+        "email": "mayurgupta2701@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA167",
+        "enrollment": "GP4338",
+        "name": "RAHIL HAMZA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 67,
+        "phone": 9354712470,
+        "email": "rahilhamza786@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA168",
+        "enrollment": "GP4343",
+        "name": "KAVYA CHAUDHARY",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 68,
+        "phone": 8630425287,
+        "email": "chhayachaudhary1212@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA169",
+        "enrollment": "GL8293",
+        "name": "GUFRAN KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 69,
+        "phone": 6397792885,
+        "email": "ghufrankhanmintorian2002@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA171",
+        "enrollment": "GP4362",
+        "name": "MOHAMMAD ADIL KHAN",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 70,
+        "phone": 8528005726,
+        "email": "adilkhan.m20@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA172",
+        "enrollment": "GP4363",
+        "name": "MOHD MISBAH",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 71,
+        "phone": 7830891858,
+        "email": "maaqib392@gmail.com"
+    },
+    {
+        "faculty": "23COBEA173",
+        "enrollment": "GM6893",
+        "name": "IBAD ULLAH ZUBERI",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 72,
+        "phone": 7037060612,
+        "email": "zuberi.ibad@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA174",
+        "enrollment": "GP4384",
+        "name": "MOHD FAZIL",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 73,
+        "phone": 7088500764,
+        "email": "mohdfazil5643@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA175",
+        "enrollment": "GM5582",
+        "name": "KHALID MEHRAJ",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 74,
+        "phone": 8899548040,
+        "email": "khalidmehraj466@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA176",
+        "enrollment": "GP4386",
+        "name": "ADITYA DHANRAJ GUPTA",
+        "mode": "a",
+        "class": "A1A",
+        "serial": 75,
+        "phone": 7525931786,
+        "email": "adityadhanraj1413@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA177",
+        "enrollment": "GP4389",
+        "name": "WALI RAZA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 1,
+        "phone": 9519754390,
+        "email": "walihashmi72@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA178",
+        "enrollment": "GP4391",
+        "name": "ANANT DEV GUPTA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 2,
+        "phone": 7302411655,
+        "email": "anantdevchd121@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA179",
+        "enrollment": "GM1808",
+        "name": "MOHD SAHIL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 3,
+        "phone": 8958267501,
+        "email": "mohammadnadeemkhan9827@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA180",
+        "enrollment": "GM1425",
+        "name": "VAISHNAVI BAGHEL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 4,
+        "phone": 9058112731,
+        "email": "vshnvibaghel45@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA181",
+        "enrollment": "GK2028",
+        "name": "MOHAMMAD KAIF ALAM",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 5,
+        "phone": 8299375809,
+        "email": "kaifalam2000@yahoo.com"
+    },
+    {
+        "faculty": "23EEBEA182",
+        "enrollment": "GP4414",
+        "name": "SANIYA FATMA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 6,
+        "phone": 9801749572,
+        "email": "saniyafatima032@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA183",
+        "enrollment": "GM1547",
+        "name": "PRABAL VARSHNEY",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 7,
+        "phone": 9411466400,
+        "email": "prabalvarshney2003@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA184",
+        "enrollment": "GM6906",
+        "name": "FAIZ AHMAD",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 8,
+        "phone": 8439567976,
+        "email": "farazsyed84334@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA185",
+        "enrollment": "GP4419",
+        "name": "MOHAMMED RUMAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 9,
+        "phone": 7007788373,
+        "email": "mohdruman7007788373@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA186",
+        "enrollment": "GP4421",
+        "name": "IZHAN KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 10,
+        "phone": 9690386994,
+        "email": "izhaankhan1020@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA187",
+        "enrollment": "GM7060",
+        "name": "PRAKHAR SAXENA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 11,
+        "phone": 8218023595,
+        "email": "prakharsaxena0612@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA188",
+        "enrollment": "GK6398",
+        "name": "SAJAL VARSHNEY",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 12,
+        "phone": 8077140942,
+        "email": "sajalvarshneya@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA189",
+        "enrollment": "GP4423",
+        "name": "ANAS HUSSAIN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 13,
+        "phone": 8218681610,
+        "email": "rizwanaahmad97@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA190",
+        "enrollment": "GM1476",
+        "name": "MAAZ HASHMI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 14,
+        "phone": 7542829502,
+        "email": "maazhashmi4333@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA191",
+        "enrollment": "GM5998",
+        "name": "SAQIB ALI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 15,
+        "phone": 8923002746,
+        "email": "saqib50605@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA192",
+        "enrollment": "GM6912",
+        "name": "MD FARHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 16,
+        "phone": 7294829511,
+        "email": "farhanfp20@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA193",
+        "enrollment": "GP4431",
+        "name": "DANISH IQBAL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 17,
+        "phone": 8824875978,
+        "email": "danishiqbal1509@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA195",
+        "enrollment": "GP4433",
+        "name": "LAKSHYA VARSHNEY",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 18,
+        "phone": 8630135867,
+        "email": "lakshyavarshney212@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA196",
+        "enrollment": "GP4436",
+        "name": "HIMANI VARSHN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 19,
+        "phone": 7838243687,
+        "email": "shravan.varshney@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA197",
+        "enrollment": "GP4440",
+        "name": "KHUSHNUMA PARVEEN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 20,
+        "phone": 8081995192,
+        "email": "khuxhnumaa@gmail.com"
+    },
+    {
+        "faculty": "23COBEA198",
+        "enrollment": "GP4445",
+        "name": "SYED MUNEER HUSAIN KAZMI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 21,
+        "phone": 7651846537,
+        "email": "kazmi.muneer786@gmail.com"
+    },
+    {
+        "faculty": "23COBEA199",
+        "enrollment": "GM7058",
+        "name": "YATHARTH KUMAR SAXENA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 22,
+        "phone": 9897282625,
+        "email": "arunsaxena1240@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA200",
+        "enrollment": "GP4448",
+        "name": "MD SAJID AHMAD",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 23,
+        "phone": 7645025030,
+        "email": "ahmadmdsajid96@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA201",
+        "enrollment": "GM7330",
+        "name": "MD NAFISH ARSHAD",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 24,
+        "phone": 7992307524,
+        "email": "nafisharshad09@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA202",
+        "enrollment": "GM6969",
+        "name": "TANISHKA SHARMA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 25,
+        "phone": 9868555560,
+        "email": "surjitsharma007@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA203",
+        "enrollment": "GP4453",
+        "name": "MOHAMMAD FARAZ RAJPUT",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 26,
+        "phone": 9634143593,
+        "email": "farazstudy112@gmail.com"
+    },
+    {
+        "faculty": "23COBEA204",
+        "enrollment": "GL8802",
+        "name": "MEHWASH NASIR",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 27,
+        "phone": 9675327516,
+        "email": "asmanasreen388@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA205",
+        "enrollment": "GM8237",
+        "name": "KUNJAL VARSHNEY",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 28,
+        "phone": 9548294020,
+        "email": "kunjalvarshney284@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA206",
+        "enrollment": "GP4460",
+        "name": "SANAULLAH AHAMAD",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 29,
+        "phone": 8054347603,
+        "email": "786sanaullah92@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA207",
+        "enrollment": "GP4462",
+        "name": "AMIL SHAMIM",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 30,
+        "phone": 8240872005,
+        "email": "amilshamim786@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA208",
+        "enrollment": "GM4162",
+        "name": "SUFIYAN SIDDIQUI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 31,
+        "phone": 9554517657,
+        "email": "sufiyansiddiqui670@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA209",
+        "enrollment": "GL4299",
+        "name": "GUFRAN ALI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 32,
+        "phone": 9795224762,
+        "email": "gufranali4299@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA210",
+        "enrollment": "GP4471",
+        "name": "KRATIKA VARSHNEY",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 33,
+        "phone": 8218542361,
+        "email": "kratikavarshney1607@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA211",
+        "enrollment": "GP4472",
+        "name": "SAIF KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 34,
+        "phone": 9528276091,
+        "email": "khansaif2602@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA212",
+        "enrollment": "GM7410",
+        "name": "MOHAMMAD SHIRAZ",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 35,
+        "phone": 7417060448,
+        "email": "taufiqshaheen0@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA213",
+        "enrollment": "GM0864",
+        "name": "NAVNEET VARSHNEY",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 36,
+        "phone": 9897338537,
+        "email": "navneetva252@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA214",
+        "enrollment": "GM1666",
+        "name": "ARYAN PARASHAR",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 37,
+        "phone": 7790947087,
+        "email": "meetalokparashar@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA215",
+        "enrollment": "GM7161",
+        "name": "AAMIR SOHAIL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 38,
+        "phone": 9389100673,
+        "email": "aamirsohail9389@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA216",
+        "enrollment": "GN1869",
+        "name": "MUSTAFA RAIS",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 39,
+        "phone": 8267862928,
+        "email": "mustafarais1606@gmail.com"
+    },
+    {
+        "faculty": "23COBEA217",
+        "enrollment": "GM7331",
+        "name": "AFRAAZ KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 40,
+        "phone": 7310943474,
+        "email": "afraazalig@gmail.com"
+    },
+    {
+        "faculty": "23COBEA218",
+        "enrollment": "GL9077",
+        "name": "FAIZAN KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 41,
+        "phone": 8528878702,
+        "email": "fk790080@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA219",
+        "enrollment": "GP4502",
+        "name": "YASH SINGHAL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 42,
+        "phone": 9411047090,
+        "email": "singhalys1109@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA220",
+        "enrollment": "GM1678",
+        "name": "HIZBULLAH AYYUBI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 43,
+        "phone": 8859742870,
+        "email": "ayyubihizbullah2018@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA221",
+        "enrollment": "GP4503",
+        "name": "MD ASIF MAHMOOD",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 44,
+        "phone": 9508741803,
+        "email": "mahmoodmdasif@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA222",
+        "enrollment": "GM1689",
+        "name": "MOHAMMAD MUJTABA ALI KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 45,
+        "phone": 9412444551,
+        "email": "mmsolutions018@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA223",
+        "enrollment": "GM5290",
+        "name": "SOMYA MISHRA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 46,
+        "phone": 7668002130,
+        "email": "somyamishra1144@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA224",
+        "enrollment": "GP4512",
+        "name": "AHAD ALI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 47,
+        "phone": 9839392005,
+        "email": "irshadbbdconstruction@gmail.com"
+    },
+    {
+        "faculty": "23COBEA225",
+        "enrollment": "GP4513",
+        "name": "UMAR",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 48,
+        "phone": 7991815100,
+        "email": "umark79918@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA226",
+        "enrollment": "GP4515",
+        "name": "ANOUSHKA KAUSHIK",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 49,
+        "phone": 9953338431,
+        "email": "contactkaushik000@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA227",
+        "enrollment": "GK7370",
+        "name": "ARBAZ KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 50,
+        "phone": 9045808720,
+        "email": "arbazkhanamu7370@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA228",
+        "enrollment": "GP4518",
+        "name": "YUVRAJ SINGH",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 51,
+        "phone": 8650236547,
+        "email": "anurag954853@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA229",
+        "enrollment": "GP4519",
+        "name": "RAYYAN NAFEES",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 52,
+        "phone": 9193497273,
+        "email": "nafees.rayyan@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA230",
+        "enrollment": "GM5402",
+        "name": "ANUBHA SINGHAL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 53,
+        "phone": 9808535578,
+        "email": "singhalkamal2003@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA231",
+        "enrollment": "GP4520",
+        "name": "BASIT IQBAL KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 54,
+        "phone": 9682309894,
+        "email": "basukup09@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA232",
+        "enrollment": "GM5276",
+        "name": "KHUSHI SHARMA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 55,
+        "phone": 7895693811,
+        "email": "khushisharma5006@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA233",
+        "enrollment": "GP4526",
+        "name": "MOHD UBAID",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 56,
+        "phone": 7309429409,
+        "email": "sharifmohdkhan9@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA234",
+        "enrollment": "GP4529",
+        "name": "TANYA RAJPUT",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 57,
+        "phone": 8077602439,
+        "email": "rakeshrajputabrc@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA235",
+        "enrollment": "GK7225",
+        "name": "AAMIR HANEEF",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 58,
+        "phone": 8279584842,
+        "email": "aamirhaneef7225@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA236",
+        "enrollment": "GP4533",
+        "name": "MOHAMMAD RAMEEZ",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 59,
+        "phone": 9335429211,
+        "email": "mdrameez2004@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA237",
+        "enrollment": "GM1863",
+        "name": "MOHAMMAD HASAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 60,
+        "phone": 9555830239,
+        "email": "hasanmohd2445@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA238",
+        "enrollment": "GP4538",
+        "name": "AHMED SUBAAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 61,
+        "phone": 9084601869,
+        "email": "ahmed.soban.43@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA239",
+        "enrollment": "GL4330",
+        "name": "MOHAMMAD ADNAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 62,
+        "phone": 9973587512,
+        "email": "mohammadadnan6002@gmail.com"
+    },
+    {
+        "faculty": "23COBEA240",
+        "enrollment": "GM6987",
+        "name": "MOHD SAQUIB",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 63,
+        "phone": 7533836992,
+        "email": "hasansardar139@gmail.com"
+    },
+    {
+        "faculty": "23COBEA241",
+        "enrollment": "GL3422",
+        "name": "SARWAT EQBAL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 64,
+        "phone": 9279213609,
+        "email": "sarwateqbal2@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA242",
+        "enrollment": "GM1708",
+        "name": "SYED OWAIS AHMAD",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 65,
+        "phone": 7754039002,
+        "email": "osyed8452@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA243",
+        "enrollment": "GM1566",
+        "name": "HIMANK GOSWAMI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 66,
+        "phone": 9412545554,
+        "email": "ghimank3@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA244",
+        "enrollment": "GM0362",
+        "name": "ALI IMAM JAFRI",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 67,
+        "phone": 7579924562,
+        "email": "aliimamjafri0110@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA245",
+        "enrollment": "GM1492",
+        "name": "SIDDHANT SHARMA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 68,
+        "phone": 9761206160,
+        "email": "kumkumranu@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA246",
+        "enrollment": "GN1887",
+        "name": "RAM MITTAL",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 69,
+        "phone": 8630703059,
+        "email": "rammittal1804@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA247",
+        "enrollment": "GM7474",
+        "name": "MOHAMMAD ZAHID KHAN",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 70,
+        "phone": 7060437152,
+        "email": "khanfamly52@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA248",
+        "enrollment": "GP4556",
+        "name": "MOHD TALHA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 71,
+        "phone": 6398680445,
+        "email": "talhamohd017@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA249",
+        "enrollment": "GP4561",
+        "name": "TARUN SHUKLA",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 72,
+        "phone": 8534951706,
+        "email": "ashutoshkshukla1976@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA250",
+        "enrollment": "GP4576",
+        "name": "GAURAV KUMAR",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 73,
+        "phone": 9719259858,
+        "email": "singhomveer675@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA251",
+        "enrollment": "GM0564",
+        "name": "MOHD ARHAM MALIK",
+        "mode": "a",
+        "class": "A1B",
+        "serial": 74,
+        "phone": 9917672812,
+        "email": "heelarhammalik@gmail.com"
+    },
+    {
+        "faculty": "23COBEA252",
+        "enrollment": "GP4587",
+        "name": "PRAGATI JAIN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 1,
+        "phone": 9286442944,
+        "email": "pragatijain841@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA253",
+        "enrollment": "GP4590",
+        "name": "MD ARBAZ AHMAD",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 2,
+        "phone": 8809105729,
+        "email": "thearbaz1@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA254",
+        "enrollment": "GK5189",
+        "name": "MOHD KUMAIL ASHRAF",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 3,
+        "phone": 7520478591,
+        "email": "mdkumailashraf01@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA255",
+        "enrollment": "GP4599",
+        "name": "PRAGYANSH GUPTA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 4,
+        "phone": 8865080540,
+        "email": "pragyanshgupta55@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA256",
+        "enrollment": "GM1606",
+        "name": "HARIS KHAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 5,
+        "phone": 7388592940,
+        "email": "hariskh0063@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA257",
+        "enrollment": "GP4604",
+        "name": "MR MOHD ANAS",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 6,
+        "phone": 8057693512,
+        "email": "anassidd141@gmail.com"
+    },
+    {
+        "faculty": "23COBEA258",
+        "enrollment": "GP4607",
+        "name": "ALAM ARA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 7,
+        "phone": 7408970028,
+        "email": "alamara1003@gmail.com"
+    },
+    {
+        "faculty": "23COBEA259",
+        "enrollment": "GP4614",
+        "name": "ZIYA ALI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 8,
+        "phone": 8171110247,
+        "email": "ziyaali0072@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA260",
+        "enrollment": "GP4622",
+        "name": "VISHAL DEVAL",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 9,
+        "phone": 8445626796,
+        "email": "sonalideval65@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA261",
+        "enrollment": "GM1649",
+        "name": "MOHAMMAD BELAL AYUBI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 10,
+        "phone": 8791959657,
+        "email": "mbasq3@gmail.com"
+    },
+    {
+        "faculty": "23COBEA262",
+        "enrollment": "GM1384",
+        "name": "SYED SAADAT AHMAD",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 11,
+        "phone": 9012292899,
+        "email": "s.saadat.ahmad@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA263",
+        "enrollment": "GP4633",
+        "name": "ATIF ALI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 12,
+        "phone": 7004206914,
+        "email": "atifkhan700420@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA264",
+        "enrollment": "GP4634",
+        "name": "MAZHAR ULLAH KHAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 13,
+        "phone": 8077846026,
+        "email": "aukhan.club@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA265",
+        "enrollment": "GM1610",
+        "name": "DANEIAL JAVAID",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 14,
+        "phone": 7983548901,
+        "email": "dane0072k2020@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA266",
+        "enrollment": "GM0415",
+        "name": "ISHAN KHAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 15,
+        "phone": 7983853539,
+        "email": "ishnkhan123@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA267",
+        "enrollment": "GP4638",
+        "name": "AKIF DAUD",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 16,
+        "phone": 8092306046,
+        "email": "akifdaud40@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA268",
+        "enrollment": "GM7183",
+        "name": "ABHISHEK SINGH",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 17,
+        "phone": 8266870146,
+        "email": "singhajju2020@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA269",
+        "enrollment": "GP4645",
+        "name": "MD ZAKI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 18,
+        "phone": 9507627312,
+        "email": "123zakimd@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA270",
+        "enrollment": "GL8318",
+        "name": "ABAAN SIDDIQUI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 19,
+        "phone": 7060607038,
+        "email": "abaansiddiqui03@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA271",
+        "enrollment": "GP4658",
+        "name": "NAHID PARVEEN KHANAM",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 20,
+        "phone": 6394218362,
+        "email": "khanamnahid373@gmail.com"
+    },
+    {
+        "faculty": "23COBEA272",
+        "enrollment": "GM1385",
+        "name": "TARIQUE BIN YUSUF",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 21,
+        "phone": 9305006407,
+        "email": "tariquebinyusuf@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA273",
+        "enrollment": "GM7374",
+        "name": "DIVYANSH VATS",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 22,
+        "phone": 8057116000,
+        "email": "divyanshvats.dv@gmail.com"
+    },
+    {
+        "faculty": "23COBEA274",
+        "enrollment": "GM7328",
+        "name": "AUSTIN VARSHNEY",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 23,
+        "phone": 8126902181,
+        "email": "austinvarshney@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA275",
+        "enrollment": "GM7420",
+        "name": "RITESH SINGH",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 24,
+        "phone": 9149102867,
+        "email": "snandita201@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA276",
+        "enrollment": "GM7215",
+        "name": "MD ADNAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 25,
+        "phone": 6393596778,
+        "email": "ma0adnan301886@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA277",
+        "enrollment": "GP4684",
+        "name": "MOHAMMAD AABAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 26,
+        "phone": 9958592312,
+        "email": "asif.crl@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA278",
+        "enrollment": "GP4686",
+        "name": "ALTAMASH AYAZ",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 27,
+        "phone": 9451007756,
+        "email": "altamashayaz242@gmail.com"
+    },
+    {
+        "faculty": "23COBEA279",
+        "enrollment": "GL4411",
+        "name": "ABDULLAH SHAFIQUE",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 28,
+        "phone": 7061011579,
+        "email": "ashafiq5421@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA280",
+        "enrollment": "GP4687",
+        "name": "SHAIKH MOHAMMED ASIF AHMAD",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 29,
+        "phone": 9431124226,
+        "email": "abdulsahid@indianoil.in"
+    },
+    {
+        "faculty": "23CHBEA281",
+        "enrollment": "GM5193",
+        "name": "KUNJAL SINGH",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 30,
+        "phone": 9458237147,
+        "email": "kunjal8233@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA282",
+        "enrollment": "GM6757",
+        "name": "DRASHYA BANSAL",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 31,
+        "phone": 7302412728,
+        "email": "drashloveindianairforce@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA283",
+        "enrollment": "GL8556",
+        "name": "VINAY",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 32,
+        "phone": 7300917892,
+        "email": "vinayjadon0097@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA285",
+        "enrollment": "GP4709",
+        "name": "OMAR SADIQUE",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 33,
+        "phone": 9660772281,
+        "email": "omarsadiquedbg@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA286",
+        "enrollment": "GP4715",
+        "name": "SAMIYA KAMAL",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 34,
+        "phone": 8002369986,
+        "email": "samiyakamal2004@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA287",
+        "enrollment": "GM7318",
+        "name": "VINAY KUMAR",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 35,
+        "phone": 8445240544,
+        "email": "vinaybaghel9756@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA288",
+        "enrollment": "GL8544",
+        "name": "RAJESH KUMAR ATTRI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 36,
+        "phone": 8445884840,
+        "email": "rajeshkumarattri01042004@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA289",
+        "enrollment": "GP4720",
+        "name": "ARWAZ KHAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 37,
+        "phone": 9758465187,
+        "email": "rb6393561@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA290",
+        "enrollment": "GP4734",
+        "name": "DEEPAK KUMAR",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 38,
+        "phone": 7505161184,
+        "email": "dk5266998@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA291",
+        "enrollment": "GP4736",
+        "name": "ABHISHEK GUPTA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 39,
+        "phone": 9758973797,
+        "email": "abhishekgupta908453908453@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA292",
+        "enrollment": "GP4747",
+        "name": "HIMANSHU RAJPUT",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 40,
+        "phone": 9897249711,
+        "email": "kumarrajesh0771@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA293",
+        "enrollment": "GP4752",
+        "name": "SHUBHANKESH",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 41,
+        "phone": 8178512639,
+        "email": "the.destroyer12121@gmail.com"
+    },
+    {
+        "faculty": "23COBEA294",
+        "enrollment": "GM7365",
+        "name": "BHOMIK VARSHNEY",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 42,
+        "phone": 8077583225,
+        "email": "bhomikvarshney@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA295",
+        "enrollment": "GM7270",
+        "name": "MADHAV MISRA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 43,
+        "phone": 9458416866,
+        "email": "aditiara33@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA296",
+        "enrollment": "GM6938",
+        "name": "PRATEEK SHARMA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 44,
+        "phone": 7055771846,
+        "email": "prateekco1598@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA297",
+        "enrollment": "GK7272",
+        "name": "AHMAD MUSTAFA SHERWANI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 45,
+        "phone": 9548309910,
+        "email": "ahmadmustafasherwani.ams@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA298",
+        "enrollment": "GP4775",
+        "name": "GULNAWAJ",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 46,
+        "phone": 7505207135,
+        "email": "gulnawaj001646@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA299",
+        "enrollment": "GP4779",
+        "name": "INSIYA ZAIDI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 47,
+        "phone": 7417177020,
+        "email": "zaidiinsiya83@gmail.com"
+    },
+    {
+        "faculty": "23COBEA300",
+        "enrollment": "GP4780",
+        "name": "DEEP BARTARIA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 48,
+        "phone": 7376999801,
+        "email": "rajeevbartaria777@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA301",
+        "enrollment": "GM1795",
+        "name": "NARAASHANS USMAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 49,
+        "phone": 7983070944,
+        "email": "minorchanges2002@gmail.com"
+    },
+    {
+        "faculty": "23COBEA302",
+        "enrollment": "GM1648",
+        "name": "MD ANISH ALAM",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 50,
+        "phone": 6204511329,
+        "email": "anishalam01786@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA303",
+        "enrollment": "GP4793",
+        "name": "RITESH SHARMA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 51,
+        "phone": 6399516073,
+        "email": "riterma9123@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA304",
+        "enrollment": "GM7604",
+        "name": "DHEERAJ SHARMA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 52,
+        "phone": 9756701282,
+        "email": "dheerajsharma1917@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA305",
+        "enrollment": "GM6000",
+        "name": "SHUAIB AKHTAR",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 53,
+        "phone": 8958956415,
+        "email": "suhaibmil15@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA306",
+        "enrollment": "GM1409",
+        "name": "SAARA SAZID KHAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 54,
+        "phone": 8800324900,
+        "email": "dr.sajidkhan786@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA307",
+        "enrollment": "GK8446",
+        "name": "ABID SHAFI KHAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 55,
+        "phone": 6006177511,
+        "email": "aabidshafi43@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA308",
+        "enrollment": "GK5133",
+        "name": "M A ALTAMASH",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 56,
+        "phone": 7017765621,
+        "email": "maaltamash5@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA309",
+        "enrollment": "GL9007",
+        "name": "KAUSHAL SHARMA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 57,
+        "phone": 7839016488,
+        "email": "kaushalsharma24781@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA310",
+        "enrollment": "GM0249",
+        "name": "CHESTA VASHISHTHA",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 58,
+        "phone": 9358212075,
+        "email": "pratyushvashishtha@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA311",
+        "enrollment": "GM6052",
+        "name": "MOHSIN SAYEED",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 59,
+        "phone": 7390968709,
+        "email": "mohsinsayeed5024@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA312",
+        "enrollment": "GP4810",
+        "name": "MOHD ZEESHAN JAFRI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 60,
+        "phone": 9565062004,
+        "email": "jafrizeeshan69@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA313",
+        "enrollment": "GM6110",
+        "name": "MD YARUKH KHAN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 61,
+        "phone": 8603378787,
+        "email": "mdyarukhkhan0786@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA314",
+        "enrollment": "GM1750",
+        "name": "SHAHID IZHAR",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 62,
+        "phone": 8677890278,
+        "email": "shahid2801raja@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA315",
+        "enrollment": "GP4824",
+        "name": "NIHAL NISHAD",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 63,
+        "phone": 9584666000,
+        "email": "nishadauh1968@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA316",
+        "enrollment": "GM7184",
+        "name": "ELMA PARVEEN",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 64,
+        "phone": 8250050929,
+        "email": "elmaparveen7517@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA317",
+        "enrollment": "GM7134",
+        "name": "PRASHANT CHAUDHARY",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 65,
+        "phone": 8839304724,
+        "email": "chaudharyneetu009@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA318",
+        "enrollment": "GM1549",
+        "name": "ROHIT KUMAR",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 66,
+        "phone": 8279457377,
+        "email": "rohit.giradharpur@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA319",
+        "enrollment": "GP4834",
+        "name": "SIDDHARTH CILSON",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 67,
+        "phone": 9897779595,
+        "email": "siddarth.cilson@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA320",
+        "enrollment": "GP4835",
+        "name": "MOHAMMAD AMIR",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 68,
+        "phone": 7521872466,
+        "email": "rayeena64@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA321",
+        "enrollment": "GM1428",
+        "name": "SNEHA MAHESHWARI",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 69,
+        "phone": 7906421787,
+        "email": "snehamaheshwari2020@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA322",
+        "enrollment": "GP4836",
+        "name": "SHYAM PATHAK",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 70,
+        "phone": 9389032612,
+        "email": "sp7423571@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA323",
+        "enrollment": "GP4837",
+        "name": "MOHAMMAD OWAIS",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 71,
+        "phone": 7860642676,
+        "email": "owaismohammad2515@gmail.com"
+    },
+    {
+        "faculty": "23COBEA324",
+        "enrollment": "GP4845",
+        "name": "RUPESH VARSHNEY",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 72,
+        "phone": 8954849868,
+        "email": "kcg192258@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA325",
+        "enrollment": "GP4847",
+        "name": "MD FAISAL AKHTAR",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 73,
+        "phone": 9102439425,
+        "email": "faisalfaisalakhtar7169@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA326",
+        "enrollment": "GP4848",
+        "name": "UTKARSH GAUTAM",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 74,
+        "phone": 9548660961,
+        "email": "utkarshgautam2210@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA327",
+        "enrollment": "GM1457",
+        "name": "DAKSH VARSHNEY",
+        "mode": "a",
+        "class": "A1C",
+        "serial": 75,
+        "phone": 7983559653,
+        "email": "dakshvarshney2004@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA328",
+        "enrollment": "GM1604",
+        "name": "MIRZA NADEEM",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 1,
+        "phone": 8969040133,
+        "email": "mirza.ms01964@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA329",
+        "enrollment": "GK5638",
+        "name": "AFZAL AYAZ",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 2,
+        "phone": 8439114309,
+        "email": "ayazafzal853@gmail.com"
+    },
+    {
+        "faculty": "23COBEA330",
+        "enrollment": "GM7106",
+        "name": "AYUSH GOYAL",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 3,
+        "phone": 9927338322,
+        "email": "goyalayush441@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA331",
+        "enrollment": "GM7350",
+        "name": "JITENDRA KUMAR SARASWAT",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 4,
+        "phone": 7055993306,
+        "email": "jsaraswat74@gmail.com"
+    },
+    {
+        "faculty": "23COBEA332",
+        "enrollment": "GP4870",
+        "name": "MOHD SHEEZAN KHAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 5,
+        "phone": 8787286356,
+        "email": "sheezankhaan01@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA333",
+        "enrollment": "GM7456",
+        "name": "TARIQUE MIRZA",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 6,
+        "phone": 9068094623,
+        "email": "tariquemirza006@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA334",
+        "enrollment": "GP4880",
+        "name": "MOHD UMAR",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 7,
+        "phone": 8604842718,
+        "email": "mumar4385@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA335",
+        "enrollment": "GP4881",
+        "name": "HAMZA KHAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 8,
+        "phone": 8273690536,
+        "email": "hamzakhan91827@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA336",
+        "enrollment": "GP4884",
+        "name": "SHARJEEL AFRIDI",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 9,
+        "phone": 9555083107,
+        "email": "afridisharjeel8@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA337",
+        "enrollment": "GP4885",
+        "name": "CHANDRA SHEKHAR",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 10,
+        "phone": 9528120612,
+        "email": "cs8848123@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA338",
+        "enrollment": "GP4887",
+        "name": "MUHD ADNAN MOHSIN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 11,
+        "phone": 9305854594,
+        "email": "adnanenigmatic@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA339",
+        "enrollment": "GM7439",
+        "name": "AJAJ ALAM",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 12,
+        "phone": 7992464179,
+        "email": "ajajalam0471@gmail.com"
+    },
+    {
+        "faculty": "23COBEA340",
+        "enrollment": "GL5241",
+        "name": "NIKHIL CHAUHAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 13,
+        "phone": 9389786118,
+        "email": "nikhilchauhan362004@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA341",
+        "enrollment": "GM7527",
+        "name": "SOMYA SAXENA",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 14,
+        "phone": 9837366998,
+        "email": "mohit_jolly123@rediffmail.com"
+    },
+    {
+        "faculty": "23AIBEA342",
+        "enrollment": "GK4967",
+        "name": "MOHD ARSHAD",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 15,
+        "phone": 7088977095,
+        "email": "mohdarshad4967@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA343",
+        "enrollment": "GP4908",
+        "name": "MOHAMMAD ANAS",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 16,
+        "phone": 9123274319,
+        "email": "mdanas2145@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA344",
+        "enrollment": "GL9189",
+        "name": "HANZALA AZKAR",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 17,
+        "phone": 9057037556,
+        "email": "santoshcsc319@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA345",
+        "enrollment": "GP4912",
+        "name": "HASNAIN ASHRAF",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 18,
+        "phone": 7906646398,
+        "email": "hasnainashraf5657@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA346",
+        "enrollment": "GP4914",
+        "name": "TANVEER ASHRAF",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 19,
+        "phone": 8384825469,
+        "email": "tanveerashraf1003@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA347",
+        "enrollment": "GL3484",
+        "name": "BUSHRA WAHEED",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 20,
+        "phone": 9559589506,
+        "email": "wbushra080@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA348",
+        "enrollment": "GM0442",
+        "name": "MOHD RAYYAN KHAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 21,
+        "phone": 7906983083,
+        "email": "rayyank676@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA349",
+        "enrollment": "GP4916",
+        "name": "DAKSH MAHESHWARI",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 22,
+        "phone": 9997400997,
+        "email": "dakshmaheshwari88@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA350",
+        "enrollment": "GM1403",
+        "name": "SIDRA WAJEEH",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 23,
+        "phone": 8381978515,
+        "email": "sidrawajeeh48@gmail.com"
+    },
+    {
+        "faculty": "23COBEA351",
+        "enrollment": "GM7227",
+        "name": "MOBASHIRUL ISLAM KAZMI",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 24,
+        "phone": 7579245223,
+        "email": "kazmizsi@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA352",
+        "enrollment": "GK8827",
+        "name": "AAMIR OBAID AHMAD",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 25,
+        "phone": 9771902057,
+        "email": "aamirobaidsabeerahmad14@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA353",
+        "enrollment": "GP4932",
+        "name": "ARYAN YADAV",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 26,
+        "phone": 7905275409,
+        "email": "wwwaryanyadav6030@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA354",
+        "enrollment": "GM1661",
+        "name": "MD GHALIB HUSSAIN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 27,
+        "phone": 9122741820,
+        "email": "mdghalibhussain938@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA356",
+        "enrollment": "GM6164",
+        "name": "IFRA REHMAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 28,
+        "phone": 8171851225,
+        "email": "ifrarehman31@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA357",
+        "enrollment": "GP4937",
+        "name": "MOHD FARHAN AHMAD",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 29,
+        "phone": 9140828509,
+        "email": "farhanahma8@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA358",
+        "enrollment": "GL8280",
+        "name": "ADNAN YUNUS",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 30,
+        "phone": 7037260037,
+        "email": "adnan10042005@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA359",
+        "enrollment": "GP4938",
+        "name": "REHAN ASHRAF",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 31,
+        "phone": 8429258530,
+        "email": "ashrafrehan243@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA360",
+        "enrollment": "GM7066",
+        "name": "FARHAN AKHTAR",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 32,
+        "phone": 6399299480,
+        "email": "farhan2007akhtar@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA361",
+        "enrollment": "GP4959",
+        "name": "ABHAY CHAUHAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 33,
+        "phone": 7409865522,
+        "email": "abhaychauhan291205@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA362",
+        "enrollment": "GP4960",
+        "name": "SHARIQUE AKHTAR",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 34,
+        "phone": 8581877839,
+        "email": "sharique8581877839@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA363",
+        "enrollment": "GK4885",
+        "name": "SYED AYAN IQBAL",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 35,
+        "phone": 8958523465,
+        "email": "ayaniqbal7070@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA364",
+        "enrollment": "GP4977",
+        "name": "CHIRAG SINGH RAGHAV",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 36,
+        "phone": 9927533088,
+        "email": "shivaniraghav2016@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA365",
+        "enrollment": "GP4979",
+        "name": "MANISH GUPTA",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 37,
+        "phone": 9670634716,
+        "email": "1manishgupta1223@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA366",
+        "enrollment": "GL4287",
+        "name": "ABU ZAID",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 38,
+        "phone": 7800057247,
+        "email": "zaidkhan9984@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA367",
+        "enrollment": "GM7152",
+        "name": "SAQULAIN IMAM",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 39,
+        "phone": 9508605662,
+        "email": "saqulainimam364@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA368",
+        "enrollment": "GP4993",
+        "name": "MODASSIR NAZAR",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 40,
+        "phone": 9431017261,
+        "email": "modassirnazar79@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA369",
+        "enrollment": "GP4998",
+        "name": "ALIYA AFTAB",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 41,
+        "phone": 9026101024,
+        "email": "aftabaliya40@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA370",
+        "enrollment": "GM6749",
+        "name": "HUMRA ASLAM",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 42,
+        "phone": 9068340823,
+        "email": "aslamhumra22@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA371",
+        "enrollment": "GM4274",
+        "name": "MOHAMMAD AHMAD",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 43,
+        "phone": 9506932194,
+        "email": "mohammadahmad81013@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA372",
+        "enrollment": "GM7751",
+        "name": "MD ARHAN ASLAM",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 44,
+        "phone": 8207670454,
+        "email": "mdarhanaslam786@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA373",
+        "enrollment": "GP5004",
+        "name": "HANZALA ASIF",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 45,
+        "phone": 8384807430,
+        "email": "asifkhan120731@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA374",
+        "enrollment": "GM1855",
+        "name": "SHOBHIT BHARDWAJ",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 46,
+        "phone": 9258542119,
+        "email": "shobhitbhardwaj763@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA375",
+        "enrollment": "GL8512",
+        "name": "ADARSH GAUTAM",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 47,
+        "phone": 9289024554,
+        "email": "adarshgtm001@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA376",
+        "enrollment": "GP5005",
+        "name": "HARSH KUMAR DIXIT",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 48,
+        "phone": 9582151919,
+        "email": "harshdixit2282@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA377",
+        "enrollment": "GP5006",
+        "name": "MOHD ANAS",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 49,
+        "phone": 8273189714,
+        "email": "saifianas974@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA378",
+        "enrollment": "GP5007",
+        "name": "PRANJAL VARSHNEY",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 50,
+        "phone": 7017627343,
+        "email": "pranjalvarshney17@gmail.com"
+    },
+    {
+        "faculty": "23COBEA379",
+        "enrollment": "GP5008",
+        "name": "HARSH AWASTHI",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 51,
+        "phone": 7080454400,
+        "email": "harsh.awasthik@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA380",
+        "enrollment": "GP5009",
+        "name": "AFIFA FATIMA",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 52,
+        "phone": 6307733533,
+        "email": "afifarizvi7@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA381",
+        "enrollment": "GM6067",
+        "name": "WAHID NASEEM",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 53,
+        "phone": 7870888455,
+        "email": "wahidnaseem2002@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA382",
+        "enrollment": "GP5014",
+        "name": "ISNA FATMI",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 54,
+        "phone": 7042069567,
+        "email": "arshadfatmi3@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA383",
+        "enrollment": "GM7665",
+        "name": "AYAN KHAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 55,
+        "phone": 8394912085,
+        "email": "myself.ayan.0111@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA384",
+        "enrollment": "GP5019",
+        "name": "ANANT PARASHAR",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 56,
+        "phone": 9971258407,
+        "email": "anantparashar2004@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA385",
+        "enrollment": "GP5021",
+        "name": "SYED ISMAIL SULTAN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 57,
+        "phone": 7050154678,
+        "email": "syedismailsultan2006@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA386",
+        "enrollment": "GM5291",
+        "name": "PRATYAKSHA BHARDWAJ",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 58,
+        "phone": 8449298655,
+        "email": "pratyakshabhardwaj361@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA387",
+        "enrollment": "GM7007",
+        "name": "MEHWISH RIYAZ",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 59,
+        "phone": 9264907576,
+        "email": "mehwishriyaz7@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA388",
+        "enrollment": "GP5040",
+        "name": "CHHAYA VISHWAKARMA",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 60,
+        "phone": 8306203156,
+        "email": "chhayajnuv@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA389",
+        "enrollment": "GP5041",
+        "name": "MD INZAMAMUL HAQUE",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 61,
+        "phone": 9931902300,
+        "email": "ik3111956@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA390",
+        "enrollment": "GP5042",
+        "name": "RYAN MAROOF",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 62,
+        "phone": 9260950068,
+        "email": "maroofsuzrysai@gmail.com"
+    },
+    {
+        "faculty": "23COBEA391",
+        "enrollment": "GP5044",
+        "name": "AL AMIN",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 63,
+        "phone": 8700047747,
+        "email": "sh.alaminsheikh@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA392",
+        "enrollment": "GM8558",
+        "name": "ADITYA SEHGAL",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 64,
+        "phone": 8384819174,
+        "email": "adityasehgal538@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA393",
+        "enrollment": "GM7139",
+        "name": "MOHAMMAD SAAD ANSARI",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 65,
+        "phone": 8864886058,
+        "email": "saad06062005@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA394",
+        "enrollment": "GP5051",
+        "name": "MD HARISH PARWEZ",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 66,
+        "phone": 7070508657,
+        "email": "harishparwez252@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA395",
+        "enrollment": "GK7091",
+        "name": "NABEEL AHMED",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 67,
+        "phone": 7467854417,
+        "email": "nabeel8958646099@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA396",
+        "enrollment": "GP5067",
+        "name": "SAAD ALI",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 68,
+        "phone": 8303976717,
+        "email": "saadali5456bhs@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA397",
+        "enrollment": "GM0411",
+        "name": "AMAAN MERAJ",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 69,
+        "phone": 7579560559,
+        "email": "amaanmeraj133@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA398",
+        "enrollment": "GP5071",
+        "name": "ASHIF SHAMSAD",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 70,
+        "phone": 7322840086,
+        "email": "ashifshamsad111@gmail.com"
+    },
+    {
+        "faculty": "23COBEA399",
+        "enrollment": "GP5072",
+        "name": "UJJAWAL GUPTA",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 71,
+        "phone": 8077875290,
+        "email": "guptaujjawal181@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA400",
+        "enrollment": "GP5073",
+        "name": "MOHD AKHTAR SHAH",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 72,
+        "phone": 8115013719,
+        "email": "shahmohdakhtar02@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA401",
+        "enrollment": "GP5077",
+        "name": "HILAL AHMAD SHEIKH",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 73,
+        "phone": 9149890028,
+        "email": "sheikhhilal138@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA402",
+        "enrollment": "GP5080",
+        "name": "OSAMA BIN SALEH",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 74,
+        "phone": 6202345987,
+        "email": "sayemosama@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA403",
+        "enrollment": "GP5081",
+        "name": "SYED ANAS AHMED",
+        "mode": "a",
+        "class": "A1D",
+        "serial": 75,
+        "phone": 8417977922,
+        "email": "anaswritings@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA404",
+        "enrollment": "GJ2618",
+        "name": "TABINDAH QASWA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 1,
+        "phone": 8923348398,
+        "email": "tabindahqaswa118@gmail.com"
+    },
+    {
+        "faculty": "23COBEA405",
+        "enrollment": "GP5088",
+        "name": "PRAGATI VARSHNEY",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 2,
+        "phone": 8791057723,
+        "email": "pragativarshney44@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA406",
+        "enrollment": "GP5093",
+        "name": "DASTAGIR WASIM SHEIKH",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 3,
+        "phone": 7041630622,
+        "email": "dastgir7888@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA407",
+        "enrollment": "GP5096",
+        "name": "AFEERA LAIQ",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 4,
+        "phone": 7307523483,
+        "email": "afeeralaiq@gmail.com"
+    },
+    {
+        "faculty": "23COBEA408",
+        "enrollment": "GM6975",
+        "name": "SHAHAB AHMAD",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 5,
+        "phone": 9411880104,
+        "email": "tau_ad@rediffmail.com"
+    },
+    {
+        "faculty": "23AEBEA409",
+        "enrollment": "GM1616",
+        "name": "SHANSHAD ALAM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 6,
+        "phone": 7827965825,
+        "email": "shanshadalam96@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA410",
+        "enrollment": "GP5100",
+        "name": "MD AFSAR ALAM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 7,
+        "phone": 9576655414,
+        "email": "afsaralam1012@gmail.com"
+    },
+    {
+        "faculty": "23COBEA411",
+        "enrollment": "GP5101",
+        "name": "DYUTIT DASH",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 8,
+        "phone": 7008599847,
+        "email": "atmajadash1001@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA413",
+        "enrollment": "GL8459",
+        "name": "ROHIT KUMAR",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 9,
+        "phone": 9837802553,
+        "email": "rohitchaudhary6102004@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA414",
+        "enrollment": "GM1695",
+        "name": "WAQUAR AHMAD",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 10,
+        "phone": 7260050255,
+        "email": "waquarahmad0106@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA415",
+        "enrollment": "GN4509",
+        "name": "FAIZAN KHAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 11,
+        "phone": 7983976280,
+        "email": "faizan2427khan@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA416",
+        "enrollment": "GM1524",
+        "name": "DEEPANSHU",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 12,
+        "phone": 7505762729,
+        "email": "deepanshuk407@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA417",
+        "enrollment": "GP5115",
+        "name": "ABDULLAH KHAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 13,
+        "phone": 9540994584,
+        "email": "abk.qr786@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA418",
+        "enrollment": "GM7251",
+        "name": "WASIQ ALI",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 14,
+        "phone": 9528286169,
+        "email": "wasiq9883@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA421",
+        "enrollment": "GP5128",
+        "name": "LAKSHAY VARSHNEY",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 15,
+        "phone": 9520739975,
+        "email": "lakshyavarshney62@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA422",
+        "enrollment": "GP5137",
+        "name": "DEVANSH",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 16,
+        "phone": 8923325230,
+        "email": "devanshd995@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA423",
+        "enrollment": "GP5139",
+        "name": "BRIJESH KUMAR BRIJESH KUMAR",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 17,
+        "phone": 9721361387,
+        "email": "rs6427134@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA424",
+        "enrollment": "GP5142",
+        "name": "PRIYANSHI JAIN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 18,
+        "phone": 8368807870,
+        "email": "parastechniques@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA425",
+        "enrollment": "GL8024",
+        "name": "HERA FATMA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 19,
+        "phone": 6201352527,
+        "email": "sumaiyafatma65@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA426",
+        "enrollment": "GM1471",
+        "name": "AKASH VARSHNEY",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 20,
+        "phone": 7303830604,
+        "email": "varshneyakash46@gmail.com"
+    },
+    {
+        "faculty": "23COBEA427",
+        "enrollment": "GP5147",
+        "name": "SIDDHANT VARSHNEY",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 21,
+        "phone": 9837455185,
+        "email": "siddhantvarshney446@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA428",
+        "enrollment": "GP5148",
+        "name": "MOHD SUHAIL",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 22,
+        "phone": 8192982901,
+        "email": "mohdsuhail81929@gmail.com"
+    },
+    {
+        "faculty": "23COBEA429",
+        "enrollment": "GM1461",
+        "name": "ANSHUL VERMA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 23,
+        "phone": 7906362059,
+        "email": "renuverma78707@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA430",
+        "enrollment": "GM1537",
+        "name": "MOHAMMAD KHALID",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 24,
+        "phone": 9140194921,
+        "email": "mohdkhalidalig152@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA431",
+        "enrollment": "GM1764",
+        "name": "ARISH AHMAD KHAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 25,
+        "phone": 9839629046,
+        "email": "kigckhan41@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA432",
+        "enrollment": "GP5156",
+        "name": "SYED MOHAMMAD ASJAD HAIDER",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 26,
+        "phone": 9555172916,
+        "email": "syedasjad04@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA433",
+        "enrollment": "GP5157",
+        "name": "ARIF AKBAR",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 27,
+        "phone": 7643814754,
+        "email": "itsarifworld7@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA434",
+        "enrollment": "GP5159",
+        "name": "FAISAL MANZOOR",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 28,
+        "phone": 9596235440,
+        "email": "fasilmanzoor2431@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA435",
+        "enrollment": "GP5161",
+        "name": "NIKHIL SONI",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 29,
+        "phone": 7505129311,
+        "email": "nikhilsoni200605@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA436",
+        "enrollment": "GL4333",
+        "name": "ANAS",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 30,
+        "phone": 9125187003,
+        "email": "anasalig4333@gmail.com"
+    },
+    {
+        "faculty": "23COBEA437",
+        "enrollment": "GP5165",
+        "name": "MOHD AMAAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 31,
+        "phone": 9889114159,
+        "email": "mohdamaan40963@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA438",
+        "enrollment": "GM6037",
+        "name": "FARHAN HASAN NAQVI",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 32,
+        "phone": 9810799165,
+        "email": "nayab.hasan.naqvi@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA439",
+        "enrollment": "GP5168",
+        "name": "ADITYA KUMAR",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 33,
+        "phone": 7739385675,
+        "email": "anilagri.cordinator.as@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA440",
+        "enrollment": "GP5169",
+        "name": "MUHAMMAD ARHAAN MUJAHID DIN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 34,
+        "phone": 9148658161,
+        "email": "arhaanmdin@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA441",
+        "enrollment": "GP5172",
+        "name": "MOINUDDIN ANSARI",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 35,
+        "phone": 9473235029,
+        "email": "umoin4910@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA443",
+        "enrollment": "GP5174",
+        "name": "ALIA HAIDER",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 36,
+        "phone": 8318610895,
+        "email": "aliahaider149@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA444",
+        "enrollment": "GP5176",
+        "name": "MOHAMMAD AMAAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 37,
+        "phone": 8368576105,
+        "email": "mohdamaan177@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA445",
+        "enrollment": "GP5179",
+        "name": "SYED SAJJAD HASNAIN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 38,
+        "phone": 7991980786,
+        "email": "hasnainsajjad2005@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA446",
+        "enrollment": "GP5181",
+        "name": "MD ARQUM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 39,
+        "phone": 7348651038,
+        "email": "arqama721@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA447",
+        "enrollment": "GP5182",
+        "name": "MOHD TALIB",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 40,
+        "phone": 7570001971,
+        "email": "danishansari76963@gmail.com"
+    },
+    {
+        "faculty": "23COBEA448",
+        "enrollment": "GM7315",
+        "name": "ANIKA VERMA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 41,
+        "phone": 9368078558,
+        "email": "anikaverma2019@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA449",
+        "enrollment": "GP6432",
+        "name": "UZAIR KHAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 42,
+        "phone": 9634030345,
+        "email": "mduzairk6@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA450",
+        "enrollment": "GP6435",
+        "name": "ARSALAN ZAHIR KHAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 43,
+        "phone": 8578887860,
+        "email": "khanaz8123@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA451",
+        "enrollment": "GP6439",
+        "name": "MOHAMMAD AMAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 44,
+        "phone": 9555792171,
+        "email": "amansid019283@gmail.com"
+    },
+    {
+        "faculty": "23COBEA452",
+        "enrollment": "GP6447",
+        "name": "NIKKI GUPTA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 45,
+        "phone": 6397484804,
+        "email": "nikkygupta933@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA453",
+        "enrollment": "GP6448",
+        "name": "MD WAJID ALAM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 46,
+        "phone": 7479701415,
+        "email": "14112003wajidalam@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA454",
+        "enrollment": "GM7206",
+        "name": "HIDAYAH KAUNAIN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 47,
+        "phone": 7906345938,
+        "email": "hidayahkaunain@gmail.com"
+    },
+    {
+        "faculty": "23COBEA455",
+        "enrollment": "GP6464",
+        "name": "MOHD ARIF RAINEE",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 48,
+        "phone": 9838113817,
+        "email": "arifrainee1@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA456",
+        "enrollment": "GM4261",
+        "name": "ADNAN MERAJ",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 49,
+        "phone": 9883319854,
+        "email": "adnanmeraj003@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA457",
+        "enrollment": "GP6472",
+        "name": "ANSHIKA SHARMA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 50,
+        "phone": 9897774356,
+        "email": "anshi71100@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA458",
+        "enrollment": "GM1819",
+        "name": "HAMMAD JAMEEL",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 51,
+        "phone": 7520402413,
+        "email": "tarannumiqbal008@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA459",
+        "enrollment": "GP6481",
+        "name": "FARAZ SUHEL KHAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 52,
+        "phone": 7830674506,
+        "email": "fskhan0204@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA460",
+        "enrollment": "GP6482",
+        "name": "SAHIB E ALAM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 53,
+        "phone": 7827622681,
+        "email": "alamsahibe7723@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA461",
+        "enrollment": "GP6486",
+        "name": "ARADHY AGARWAL",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 54,
+        "phone": 8865852244,
+        "email": "aradhyagarwal242@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA462",
+        "enrollment": "GP6487",
+        "name": "MD FAIZAN KHAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 55,
+        "phone": 7275398588,
+        "email": "faizfarhankhan0786@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA463",
+        "enrollment": "GP6493",
+        "name": "PARAS VARSHNEY",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 56,
+        "phone": 8218448451,
+        "email": "parasvarshney212@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA464",
+        "enrollment": "GP6494",
+        "name": "MOHD GULAM NABI",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 57,
+        "phone": 7042514429,
+        "email": "nabimohd233@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA465",
+        "enrollment": "GP6511",
+        "name": "MOHAMMAD ABUZAR SIDDIQUI",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 58,
+        "phone": 9653039445,
+        "email": "siddiquiabuzar111@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA466",
+        "enrollment": "GP6518",
+        "name": "NARGIS FATIMA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 59,
+        "phone": 6201883043,
+        "email": "nargisfatima1803@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA467",
+        "enrollment": "GP6519",
+        "name": "AAYUSH KUMAR SHARMA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 60,
+        "phone": 8449511034,
+        "email": "aayushkrsharma6@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA468",
+        "enrollment": "GP6524",
+        "name": "AMIR HASAN",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 61,
+        "phone": 9927243503,
+        "email": "amirhasanh515@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA469",
+        "enrollment": "GL4035",
+        "name": "SANA TASNEEM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 62,
+        "phone": 9117740723,
+        "email": "tasneemsana234@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA470",
+        "enrollment": "GK7380",
+        "name": "ASHISH CHAUDHARY",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 63,
+        "phone": 9319783687,
+        "email": "mpsingh0395@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA471",
+        "enrollment": "GM7313",
+        "name": "ADIBA ANWAR",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 64,
+        "phone": 8434716336,
+        "email": "mdhamidansari50@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA472",
+        "enrollment": "GM4134",
+        "name": "SHIVAM TOMAR",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 65,
+        "phone": 9758104977,
+        "email": "st4224106@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA473",
+        "enrollment": "GM7678",
+        "name": "VASU GARG",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 66,
+        "phone": 6395146136,
+        "email": "vasugarg608@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA474",
+        "enrollment": "GP6541",
+        "name": "MO ARAF ANSARI",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 67,
+        "phone": 6394186285,
+        "email": "asifaliansari192@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA475",
+        "enrollment": "GM5405",
+        "name": "ARFA ALAM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 68,
+        "phone": 8789035454,
+        "email": "camarfi1243@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA476",
+        "enrollment": "GP6546",
+        "name": "DEEPAK",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 69,
+        "phone": 8057974677,
+        "email": "charusharma22744@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA477",
+        "enrollment": "GP6552",
+        "name": "MD ANAS SHAHID",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 70,
+        "phone": 7003173409,
+        "email": "hasratparween683@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA478",
+        "enrollment": "GM7873",
+        "name": "ILMA FATMA",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 71,
+        "phone": 8218034121,
+        "email": "akmalalikhan5@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA479",
+        "enrollment": "GM5992",
+        "name": "RAJ SINGH",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 72,
+        "phone": 9456201726,
+        "email": "raj438280@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA480",
+        "enrollment": "GP6571",
+        "name": "BARUN GAUTAM",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 73,
+        "phone": 8700880341,
+        "email": "erbarungautam@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA481",
+        "enrollment": "GP6572",
+        "name": "SHAHZAD AHMAD",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 74,
+        "phone": 9696305758,
+        "email": "iqrafatimamlzs@gmail.com"
+    },
+    {
+        "faculty": "23EEBEA482",
+        "enrollment": "GM6890",
+        "name": "AYAZ MAHMOOD",
+        "mode": "a",
+        "class": "A1E",
+        "serial": 75,
+        "phone": 9457617582,
+        "email": "ayazmahmood246@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA483",
+        "enrollment": "GP6587",
+        "name": "MOHD ANAS",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 1,
+        "phone": 9336794520,
+        "email": "undertaker.261001@gmail.com"
+    },
+    {
+        "faculty": "23COBEA484",
+        "enrollment": "GM7190",
+        "name": "SHASHANK CHAUHAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 2,
+        "phone": 8006610732,
+        "email": "pramodchauhan88259@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA485",
+        "enrollment": "GM1609",
+        "name": "MOHD FAUZAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 3,
+        "phone": 6306044494,
+        "email": "ansarifauzan319@gmail.com"
+    },
+    {
+        "faculty": "23COBEA486",
+        "enrollment": "GP6599",
+        "name": "AYESHA UMAR KHAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 4,
+        "phone": 9871179496,
+        "email": "ayeshaumarkhan2004@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA487",
+        "enrollment": "GM4293",
+        "name": "SATYAM",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 5,
+        "phone": 9368352267,
+        "email": "ankitdixitz1234@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA488",
+        "enrollment": "GM6353",
+        "name": "ABUZAID",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 6,
+        "phone": 7007184024,
+        "email": "abuzaidkhan841@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA489",
+        "enrollment": "GP6608",
+        "name": "AMAN ANSARI",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 7,
+        "phone": 9794084469,
+        "email": "shezanansari36@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA490",
+        "enrollment": "GP6621",
+        "name": "PRANAV SHARMA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 8,
+        "phone": 9897551894,
+        "email": "rahulbarelvi@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA491",
+        "enrollment": "GM0869",
+        "name": "SAQLAIN RIYAZ",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 9,
+        "phone": 8630413488,
+        "email": "riyazsaqlain78@gmail.com"
+    },
+    {
+        "faculty": "23AEBEA492",
+        "enrollment": "GP6635",
+        "name": "MD ZIAUL HOQUE",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 10,
+        "phone": 8132025211,
+        "email": "ziaulhoque2003@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA493",
+        "enrollment": "GP6640",
+        "name": "VISHAL SHARMA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 11,
+        "phone": 9548508626,
+        "email": "vishals542006@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA494",
+        "enrollment": "GL9177",
+        "name": "ARMAN KHAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 12,
+        "phone": 9670375977,
+        "email": "armankhan13022005@gmail.com"
+    },
+    {
+        "faculty": "23ELBEA495",
+        "enrollment": "GP6641",
+        "name": "SHAMIL K P",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 13,
+        "phone": 9497581163,
+        "email": "kpshamil005@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA496",
+        "enrollment": "GP6642",
+        "name": "MOHAMMAD RAYYAN SHOAIB",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 14,
+        "phone": 8580014450,
+        "email": "rayyanshoaib41@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA497",
+        "enrollment": "GM7287",
+        "name": "SYED BASIL RIZVI",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 15,
+        "phone": 9927249065,
+        "email": "rbasil786@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA498",
+        "enrollment": "GM1624",
+        "name": "MASUM RAZA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 16,
+        "phone": 7667219315,
+        "email": "razamasum137@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA499",
+        "enrollment": "GP6655",
+        "name": "SAKSHI SINGH",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 17,
+        "phone": 9457300620,
+        "email": "nidheeshpratapsingh94@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA500",
+        "enrollment": "GM5254",
+        "name": "UMRA FATIMA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 18,
+        "phone": 8083322168,
+        "email": "umrafatima13@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA501",
+        "enrollment": "GM4289",
+        "name": "ASIF AHMAD",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 19,
+        "phone": 8439200739,
+        "email": "nezamuddina5@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA502",
+        "enrollment": "GP6675",
+        "name": "MOHD YASH",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 20,
+        "phone": 6392237604,
+        "email": "mohdyash718@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA503",
+        "enrollment": "GP6676",
+        "name": "DIVYANSH YADAV",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 21,
+        "phone": 8923503045,
+        "email": "manjuyadavjalesar@gmail.com"
+    },
+    {
+        "faculty": "23AIBEA504",
+        "enrollment": "GP6681",
+        "name": "MOHD SHAAD",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 22,
+        "phone": 8574725341,
+        "email": "mohdshaad258@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA505",
+        "enrollment": "GP6692",
+        "name": "SHAAD KHAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 23,
+        "phone": 9119049105,
+        "email": "shaadk1017@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA506",
+        "enrollment": "GP6698",
+        "name": "AFFAN SHERWANI",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 24,
+        "phone": 7060584964,
+        "email": "parvizujjala@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA507",
+        "enrollment": "GM6025",
+        "name": "ABHISHEK KUMAR YADAV",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 25,
+        "phone": 9760384450,
+        "email": "abhishekayssss@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA508",
+        "enrollment": "GP6998",
+        "name": "SHAHBAZ HUSSAIN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 26,
+        "phone": 6202671800,
+        "email": "sh7798135@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA509",
+        "enrollment": "GP6999",
+        "name": "MOHD ABID HUSSAIN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 27,
+        "phone": 6006597002,
+        "email": "abidchoudhary546@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA510",
+        "enrollment": "GP7008",
+        "name": "RAIYYAN YUNUS",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 28,
+        "phone": 7309183751,
+        "email": "badshahraiyyan4udear@gmail.com"
+    },
+    {
+        "faculty": "23CEBEA511",
+        "enrollment": "GM6001",
+        "name": "CHANDRA MOHAN SHARMA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 29,
+        "phone": 7417339161,
+        "email": "siddharth4656@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA512",
+        "enrollment": "GL5568",
+        "name": "ZAID HAQUE",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 30,
+        "phone": 7370835067,
+        "email": "zaidhaque321@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA513",
+        "enrollment": "GM5329",
+        "name": "SHAYISHTA SHAKIL",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 31,
+        "phone": 8981786452,
+        "email": "zaibunzameer89@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA514",
+        "enrollment": "GM6724",
+        "name": "HARSHITA MISHRA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 32,
+        "phone": 7017375151,
+        "email": "harshitamishra780@gmail.com"
+    },
+    {
+        "faculty": "23COBEA515",
+        "enrollment": "GM0391",
+        "name": "MOHD FAHMEED KHAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 33,
+        "phone": 6395165056,
+        "email": "khanfahmeed36@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA516",
+        "enrollment": "GP7029",
+        "name": "MOHAMMAD HAMD ZAMAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 34,
+        "phone": 7905375064,
+        "email": "hamd.zaman05@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA517",
+        "enrollment": "GP7030",
+        "name": "ABU OSAMA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 35,
+        "phone": 7393033905,
+        "email": "abuosama8081@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA518",
+        "enrollment": "GM6105",
+        "name": "MOHD ANAS",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 36,
+        "phone": 8192003404,
+        "email": "anashamza2522@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA519",
+        "enrollment": "GP5897",
+        "name": "ARYAN SHARMA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 37,
+        "phone": 9058047605,
+        "email": "aryan9058047606@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA520",
+        "enrollment": "GP7043",
+        "name": "RANGALA YASWANTH KUMAR",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 38,
+        "phone": 6304986275,
+        "email": "balayyar48@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA521",
+        "enrollment": "GP7044",
+        "name": "SYED AYAAN HUSSAIN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 39,
+        "phone": 9810028216,
+        "email": "sayaanhussainstudy@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA522",
+        "enrollment": "GP7050",
+        "name": "SACHIN SONKAR",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 40,
+        "phone": 8795755587,
+        "email": "sachinjakhar20abc03@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA523",
+        "enrollment": "GP7055",
+        "name": "ASHAR AHMAD",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 41,
+        "phone": 7042696100,
+        "email": "atharamd@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA524",
+        "enrollment": "GP7063",
+        "name": "IMMAD JILANI",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 42,
+        "phone": 8439677923,
+        "email": "immadjilani@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA525",
+        "enrollment": "GM6060",
+        "name": "AFFAN AHMAD",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 43,
+        "phone": 7209149089,
+        "email": "affanahmad1708@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA526",
+        "enrollment": "GP7074",
+        "name": "SYED MOHAMMAD HAMZA HASAN RIZV",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 44,
+        "phone": 7652017184,
+        "email": "hamzarizvi.sfc@gmail.com"
+    },
+    {
+        "faculty": "23CHBEA527",
+        "enrollment": "GM5678",
+        "name": "FATIMA KHAN",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 45,
+        "phone": 9125053336,
+        "email": "assykhan2002@yahoo.co.in"
+    },
+    {
+        "faculty": "23FTBEA528",
+        "enrollment": "GP7084",
+        "name": "ABDUL TAVVAB",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 46,
+        "phone": 7983822870,
+        "email": "abdultavvabt@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA529",
+        "enrollment": "GP7094",
+        "name": "HARSH CHAUDHARY",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 47,
+        "phone": 9412590962,
+        "email": "aagrwal667@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA530",
+        "enrollment": "GP7187",
+        "name": "UMAIR ABRAR",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 48,
+        "phone": 9105644191,
+        "email": "saifiumair16@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA531",
+        "enrollment": "GP7208",
+        "name": "MOHAMMAD ANAS",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 49,
+        "phone": 6306504888,
+        "email": "czarion123@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA532",
+        "enrollment": "GP7268",
+        "name": "DIVYANSHI SHARMA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 50,
+        "phone": 8076173353,
+        "email": "divyanshisharma1th@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA533",
+        "enrollment": "GK6258",
+        "name": "EISHAN DILSHAD",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 51,
+        "phone": 9837975996,
+        "email": "eishandilshad@gmail.com"
+    },
+    {
+        "faculty": "23MEBEA534",
+        "enrollment": "GP7279",
+        "name": "AMRIT",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 52,
+        "phone": 8873036153,
+        "email": "thunderbird00686@gmail.com"
+    },
+    {
+        "faculty": "23FTBEA535",
+        "enrollment": "GM6097",
+        "name": "MOHD MUSTAFA",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 53,
+        "phone": 7905808584,
+        "email": "mohdmustafarlb@gmail.com"
+    },
+    {
+        "faculty": "23PKBEA536",
+        "enrollment": "GP7412",
+        "name": "QAZI SYED ATYAB ALI",
+        "mode": "a",
+        "class": "A1F",
+        "serial": 54,
+        "phone": 9334253624,
+        "email": "safionnet@gmail.com"
+    }
+]
