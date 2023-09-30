@@ -1,47 +1,16 @@
-# Astro Starter Kit: Minimal
+# AMU 1st year Students Public Info
+The Public informarmation regarding all the students of 1st yr B.tech enrolled in AMU for the session 2023-27 taken from the [official Excel source](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUXVTiRc_y3FmfyOQpxe7EK1gWSG2Hioz1ML__lIbbg7WEV3zCugdBVE6qUGhCyJFFAFwwoyCqm4zI/pub?gid=1887357014&single=true&output=csv)
 
-```sh
-npm create astro@latest -- --template minimal
-```
+## Tech Stack
+- Astro
+- UnoCSS
+- Vercel
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## FAQs
 
-## 🚀 Project Structure
+### Why leak student's private data
+There are no threats to the privacy of the individuals since this data has been sent in WhatsApp groups all the time.. and almost all seniors and juniors have access to this data. It's not private at all...
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### Why even make such a website ?
+To make it easy for finding info regarding individuals in terms of help or spam... Just a way to connect
